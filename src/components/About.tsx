@@ -27,11 +27,11 @@ export default function About() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-[#378ADD]/30 to-[#7EB8F7]/10 rounded-2xl blur-xl scale-110" />
               <img
-                src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400"
+                src="./image-about.png"
                 alt="Ahmed Ben Henda"
-                className="relative w-72 h-80 object-cover rounded-2xl shadow-2xl border-2 border-[#378ADD]/30"
+                className="relative w-72 h-85 object-cover rounded-2xl shadow-2xl border-2 border-[#378ADD]/30"
               />
-              <div className="absolute -bottom-4 -right-4 bg-[#378ADD] text-white px-4 py-2 rounded-xl text-sm font-bold shadow-lg">
+              <div className="absolute -bottom-2 -right-4 bg-[#378ADD] text-white px-4 py-2 rounded-xl text-sm font-bold shadow-lg">
                 Available 2027
               </div>
             </div>
