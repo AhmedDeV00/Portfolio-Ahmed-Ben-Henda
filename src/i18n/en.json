@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "certificates": "Certificates",
+    "github": "GitHub",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Full Stack Developer | Seeking Ausbildung Fachinformatiker Anwendungsentwicklung",
+    "tagline": "I build fast, clean, real-world web applications",
+    "cta1": "View My Work",
+    "cta2": "Contact Me",
+    "available": "Available for Ausbildung 2027 · Bavaria, Germany"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "I'm Ahmed Ben Henda, a Full Stack Developer from Tunisia with 2+ years of hands-on experience building modern web applications. I specialize in React, TypeScript, and Node.js, and I'm passionate about writing clean, maintainable code that solves real problems. I'm currently seeking an Ausbildung as Fachinformatiker für Anwendungsentwicklung starting in 2027.",
+    "whyGermany": "I chose Germany because of its world-class dual education system — the Ausbildung model combines structured theory with real workplace experience, which I believe is the best way to grow as a professional developer. Germany's IT sector is leading Europe, and I want to be part of it. My Tunisian Abitur has been officially recognized as equivalent to the German Hochschulreife by the Bayerisches Landesamt für Schule.",
+    "downloadCV": "Download CV",
+    "badges": {
+      "origin": "From Tunisia",
+      "language": "Deutsch B2 → C1",
+      "experience": "2+ Years Experience",
+      "goal": "Ausbildung 2027"
+    }
+  },
+  "skills": {
+    "title": "Skills & Technologies"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Real projects with real results — deployed and live.",
+    "liveDemo": "Live Demo",
+    "github": "GitHub",
+    "lighthouse": "Lighthouse Scores"
+  },
+  "experience": {
+    "title": "Experience & Education"
+  },
+  "certificates": {
+    "title": "Certificates & Achievements",
+    "verify": "Verify Certificate →",
+    "inProgress": "In Progress"
+  },
+  "github": {
+    "title": "GitHub Activity",
+    "subtitle": "Consistent commits — coding is a daily habit, not a project habit.",
+    "viewProfile": "View Full GitHub Profile"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "location": "Currently in Tunisia | Available in Germany from 2027",
+    "response": "I respond within 24 hours",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "messagePlaceholder": "Your Message",
+    "send": "Send Message",
+    "sent": "Message Sent!",
+    "email": "ahmedbenhenda.dev@gmail.com"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "seeking": "Seeking Ausbildung Fachinformatiker Anwendungsentwicklung 2027"
+  }
+}

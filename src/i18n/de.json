@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "about": "Über mich",
+    "skills": "Fähigkeiten",
+    "projects": "Projekte",
+    "experience": "Erfahrung",
+    "certificates": "Zertifikate",
+    "github": "GitHub",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Full Stack Entwickler | Suche Ausbildung Fachinformatiker Anwendungsentwicklung",
+    "tagline": "Ich entwickle schnelle, saubere und praxisnahe Webanwendungen",
+    "cta1": "Meine Projekte",
+    "cta2": "Kontakt aufnehmen",
+    "available": "Verfügbar für Ausbildung 2027 · Bayern, Deutschland"
+  },
+  "about": {
+    "title": "Über mich",
+    "bio": "Ich bin Ahmed Ben Henda, ein Full Stack Entwickler aus Tunesien mit über 2 Jahren praktischer Erfahrung in der Entwicklung moderner Webanwendungen. Ich spezialisiere mich auf React, TypeScript und Node.js und schreibe sauberen, wartbaren Code. Ich suche einen Ausbildungsplatz als Fachinformatiker für Anwendungsentwicklung ab 2027.",
+    "whyGermany": "Ich habe Deutschland gewählt, weil das duale Ausbildungssystem theoretisches Wissen mit echter Berufserfahrung verbindet — das ist meiner Meinung nach der beste Weg, als Entwickler zu wachsen. Deutschlands IT-Sektor führt Europa an, und ich möchte Teil davon sein. Mein tunesisches Abitur wurde offiziell als gleichwertig zur deutschen Hochschulreife vom Bayerischen Landesamt für Schule anerkannt.",
+    "downloadCV": "Lebenslauf herunterladen",
+    "badges": {
+      "origin": "Aus Tunesien",
+      "language": "Deutsch B2 → C1",
+      "experience": "2+ Jahre Erfahrung",
+      "goal": "Ausbildung 2027"
+    }
+  },
+  "skills": {
+    "title": "Fähigkeiten & Technologien"
+  },
+  "projects": {
+    "title": "Projekte",
+    "subtitle": "Echte Projekte mit echten Ergebnissen — deployed und live.",
+    "liveDemo": "Live-Demo",
+    "github": "GitHub",
+    "lighthouse": "Lighthouse-Werte"
+  },
+  "experience": {
+    "title": "Erfahrung & Ausbildung"
+  },
+  "certificates": {
+    "title": "Zertifikate & Leistungen",
+    "verify": "Zertifikat verifizieren →",
+    "inProgress": "In Bearbeitung"
+  },
+  "github": {
+    "title": "GitHub-Aktivität",
+    "subtitle": "Regelmäßige Commits — Programmieren ist eine tägliche Gewohnheit.",
+    "viewProfile": "Vollständiges GitHub-Profil anzeigen"
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "location": "Derzeit in Tunesien | Ab 2027 in Deutschland verfügbar",
+    "response": "Ich antworte innerhalb von 24 Stunden",
+    "namePlaceholder": "Ihr Name",
+    "emailPlaceholder": "Ihre E-Mail",
+    "messagePlaceholder": "Ihre Nachricht",
+    "send": "Nachricht senden",
+    "sent": "Nachricht gesendet!",
+    "email": "ahmedbenhenda.dev@gmail.com"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "seeking": "Suche Ausbildung Fachinformatiker Anwendungsentwicklung 2027"
+  }
+}

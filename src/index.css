@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: #0F1F3D;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center gap-2 px-6 py-3 bg-[#378ADD] text-white font-semibold rounded-lg transition-all duration-200 hover:bg-[#2a6dc4] hover:shadow-lg hover:shadow-[#378ADD]/25 active:scale-95;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center gap-2 px-6 py-3 border-2 border-[#378ADD] text-[#7EB8F7] font-semibold rounded-lg transition-all duration-200 hover:bg-[#378ADD] hover:text-white active:scale-95;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-center mb-4;
+  }
+
+  .section-subtitle {
+    @apply text-center text-gray-400 mb-12 max-w-2xl mx-auto;
+  }
+
+  .skill-badge {
+    @apply px-3 py-1.5 bg-[#1a3260] text-[#7EB8F7] text-sm font-medium rounded-lg border border-[#378ADD]/30 transition-colors hover:bg-[#378ADD]/20;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 bg-[#1a3260] border border-[#378ADD]/30 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-[#378ADD] focus:ring-1 focus:ring-[#378ADD] transition-colors;
+  }
+
+  .tech-badge {
+    @apply px-2.5 py-1 bg-[#378ADD]/15 text-[#7EB8F7] text-xs font-medium rounded-md border border-[#378ADD]/20;
+  }
+
+  .social-btn {
+    @apply inline-flex items-center gap-2 px-5 py-2.5 border border-[#378ADD]/40 text-[#7EB8F7] rounded-lg font-medium transition-all hover:border-[#378ADD] hover:bg-[#378ADD]/10;
+  }
+
+  .timeline-dot {
+    @apply absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-[#378ADD] border-2 border-[#0F1F3D] shadow-[0_0_0_3px_rgba(55,138,221,0.2)];
+  }
+
+  .badge-primary {
+    @apply inline-flex items-center gap-1.5 px-3 py-1.5 bg-[#378ADD]/15 text-[#7EB8F7] text-sm font-medium rounded-full border border-[#378ADD]/30;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0F1F3D;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #378ADD;
+  border-radius: 3px;
+}
