@@ -24,7 +24,7 @@ const skillGroups = [
   {
     category: 'IT Foundation (TQ 1)',
     icon: Network,
-    skills: ['Networks', 'Linux', 'Virtualization', 'IT Security'],
+    skills: ['Networks', 'Linux', 'Virtualization', 'IT Security', 'Cloud Computing'],
     color: 'from-purple-500/20 to-purple-600/5',
   },
   {
